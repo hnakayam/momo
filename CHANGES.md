@@ -15,8 +15,8 @@
     - @tnoho
 - [UPDATE] JetPack 4.6 に上げる
     - @tnoho
-- [UPDATE] `libwebrtc` を `99.4844.0.0` に上げる
-    - @tnoho
+- [UPDATE] `libwebrtc` を `100.4896.0.0` に上げる
+    - @tnoho @voluntas
 - [UPDATE] sdl2 を 2.0.20 に上げる
     - @voluntas
 - [UPDATE] cmake を 3.22.2 に上げる
